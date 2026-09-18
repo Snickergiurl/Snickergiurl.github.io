@@ -1,6 +1,6 @@
-# Kelsi Gooden — Operations Portfolio
+# Kelsi Gooden — Learning Programs, Operations & Applied AI Portfolio
 
-A responsive, accessible static portfolio designed for GitHub Pages. It includes Home, About, Projects, and Contact pages and requires no build system or paid hosting.
+A responsive, accessible static portfolio designed for GitHub Pages. It positions learning programs and L&D first while preserving Kelsi’s strengths in program operations, customer experience, and applied AI. It includes Home, About, Projects, Contact, and a complete interactive “AI at Work” learning experience with no build system or paid hosting required.
 
 ## Before publishing
 
