@@ -246,3 +246,12 @@ h1 em, h2 em { color: var(--accent); font-family: var(--serif); font-weight: 400
   .contact-link { grid-template-columns: 80px 1fr 20px; }
   .contact-link strong { font-size: .95rem; }
 }
+
+/* Project implementation briefs */
+.project-brief { margin-top: 30px; border-top: 1px solid var(--line); padding-top: 20px; }
+.project-brief summary { cursor: pointer; font-weight: 600; line-height: 1.5; }
+.project-brief summary:focus-visible, a:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 5px; }
+.project-brief .brief-note { font-size: .85rem; margin-top: 18px; color: var(--ink-soft); }
+.project-brief dt { font-weight: 600; margin-top: 18px; font-size: .9rem; }
+.project-brief dd { margin: 5px 0 0; font-size: .9rem; color: var(--ink-soft); }
+.case-meta { flex-wrap: wrap; }

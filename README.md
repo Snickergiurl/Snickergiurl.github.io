@@ -1,35 +1,26 @@
-# Kelsi Gooden — Learning Programs, Operations & Applied AI Portfolio
+# Kelsi Gooden — Project Coordination & Operations Portfolio
 
-A responsive, accessible static portfolio designed for GitHub Pages. It positions learning programs and L&D first while preserving Kelsi’s strengths in program operations, customer experience, and applied AI. It includes Home, About, Projects, Contact, and a complete interactive “AI at Work” learning experience with no build system or paid hosting required.
+Static GitHub Pages portfolio positioning Kelsi for entry-level Project Coordinator, Project Assistant, Program Coordinator, and Implementation Coordinator roles.
 
-## Before publishing
+## Featured work
+- Maintenance Request Management System: workflow ownership, handoffs, and tracking.
+- Customer Success & Service Recovery System: prioritization, escalation, and follow-through.
+- AI at Work: a working digital course with a proposed organizational rollout plan.
 
-1. Add the public email address and LinkedIn URL in `assets/site.js`.
-2. Add project PDFs or images under `assets/projects/` and replace each “coming soon” message with a link.
-3. Review the biography and location wording.
+All three are portfolio simulations. Project pages distinguish existing artifacts from proposed milestones, stakeholders, risks, acceptance criteria, and success measures. Do not present proposed outcomes as measured results or independent portfolio work as paid project management employment.
 
-## Publish on GitHub Pages
+The general machine-learning collection is no longer featured. Existing downloadable artifacts and the interactive course remain available.
 
-1. Create a public GitHub repository. Name it `snickergiurl.github.io` for the cleanest profile URL, or `kelsi-gooden-portfolio` for a project URL.
-2. Upload all files in this folder to the repository’s `main` branch.
-3. In the repository, open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**, then select `main` and `/ (root)`.
-5. Save. GitHub will display the live URL after deployment finishes.
+## Structure
+- `index.html`: positioning and selected work
+- `about.html`: transferable experience and education
+- `projects.html`: case studies and expandable implementation briefs
+- `contact.html`: target roles and contact links
+- `projects/ai-at-work/`: course and delivery case study
+- `assets/projects/`: existing executive decks and spreadsheet trackers
 
-## Add a project
+## Preview
+Run `python3 -m http.server 8080` from the repository root, then open http://localhost:8080.
 
-Place the project file in `assets/projects/`, then replace the status text in `projects.html` with a link such as:
-
-```html
-<a class="case-status" href="assets/projects/project-name.pdf">View case study →</a>
-```
-
-## Local preview
-
-Open `index.html` directly, or run a local server from this folder:
-
-```bash
-python3 -m http.server 8080
-```
-
-Then visit `http://localhost:8080`.
+## Publishing
+The site uses GitHub Pages with static files and no build dependencies. Preserve the existing Pages configuration. Review project claims and local links before updating the publishing branch.
