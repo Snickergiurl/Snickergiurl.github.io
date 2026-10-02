@@ -3,11 +3,10 @@
 Static GitHub Pages portfolio positioning Kelsi for entry-level Project Coordinator, Project Assistant, Program Coordinator, and Implementation Coordinator roles.
 
 ## Featured work
-- Maintenance Request Management System: workflow ownership, handoffs, and tracking.
 - Customer Success & Service Recovery System: prioritization, escalation, and follow-through.
 - AI at Work: a working digital course with a proposed organizational rollout plan.
 
-All three are portfolio simulations. Project pages distinguish existing artifacts from proposed milestones, stakeholders, risks, acceptance criteria, and success measures. Do not present proposed outcomes as measured results or independent portfolio work as paid project management employment.
+Both are portfolio simulations. Project pages distinguish existing artifacts from proposed milestones, stakeholders, risks, acceptance criteria, and success measures. Do not present proposed outcomes as measured results or independent portfolio work as paid project management employment.
 
 The general machine-learning collection is no longer featured. Existing downloadable artifacts and the interactive course remain available.
 
